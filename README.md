@@ -29,7 +29,7 @@ Features:
 
 ### Prerequisites
 
-**Node version 14.x**
+**Node version 14.xx**
 
 ### Cloning the repository
 
