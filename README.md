@@ -34,7 +34,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone 
+git clone https://github.com/Quelaan1/land-brokers.git
 ```
 
 ### Install packages
