@@ -9,7 +9,7 @@ declare global {
   var cloudinary: any
 }
 
-const uploadPreset = "q2jusy9x";
+const uploadPreset = "wgmnej49";
 
 interface ImageUploadProps {
   onChange: (value: string) => void;
